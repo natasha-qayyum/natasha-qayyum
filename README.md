@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @natasha-qayyum but you can call me Tash.
+- 👀 I’m interested in: <br>
+          - data science / machine learning, <br>
+          - analytics, <br>
+          - visualisation, <br>
+          - molecular biology, <br>
+          - statistics, <br>
+          - finance, <br>
+          - ethics in AI, <br>
+          - social mobility, and <br>
+          - fine art. <br>
+- 🌱 I’m currently learning GCP.
+- 💞️ I’m looking to collaborate on any women in tech/finance/STEM/leadership initiatives.
+- 📫 How to reach me: email!
