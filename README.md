@@ -7,7 +7,7 @@
           - statistics, <br>
           - finance, <br>
           - ethics in AI, <br>
-          - social mobility, and <br>
+          - social mobility & inclusion, and <br>
           - fine art. <br>
 - 🌱 I’m currently learning GCP.
 - 💞️ I’m looking to collaborate on any women in tech/finance/STEM/leadership initiatives.
