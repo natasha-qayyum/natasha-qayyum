@@ -10,5 +10,5 @@
           - social mobility & inclusion, and <br>
           - fine art. <br>
 - 🌱 I’m currently learning GCP.
-- 💞️ I’m looking to collaborate on any women in tech/finance/STEM/leadership initiatives.
+- 💞️ I’m looking to collaborate on any women/POC in tech/finance/STEM/leadership initiatives.
 - 📫 How to reach me: email!
